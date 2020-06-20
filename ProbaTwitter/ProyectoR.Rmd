@@ -1,7 +1,7 @@
 ---
 title: "Proyecto R"
 output: html_document
-author: Amezcua Caballero Rodrigo, Gómez Mora Héctor Eduardo y  Villegas Salvador Kevin Ricardo
+author: Villegas Salvador Kevin Ricardo
 ---
 
 ```{r setup, include=TRUE}
